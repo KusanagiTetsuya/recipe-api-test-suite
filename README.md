@@ -1,6 +1,6 @@
 # Recipe API Test Suite
 
-[![tests](https://github.com/KusanagiTetsuya/recipe-api-test-suite/actions/workflows/tests.yml/badge.svg)](https://github.com/KusanagiTetsuya/recipe-api-test-suite/actions/workflows/tests.yml)
+[![tests](https://github.com/dbsants/recipe-api-test-suite/actions/workflows/tests.yml/badge.svg)](https://github.com/dbsants/recipe-api-test-suite/actions/workflows/tests.yml)
 
 Automated API tests for a small recipe REST service, written in Python with
 pytest and requests. The suite runs on every push in GitHub Actions and in a
